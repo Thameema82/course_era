@@ -15,5 +15,35 @@ p{
  margin-top:15px;
  background-color:grey;
  padding:5px;
+div{
+ background-color:lightblue;
+ border:1px solid black;
+ position:relative;
+ padding:5px;
+ margin-top:px;
+ border-radius:10px;
+}
+div>p{
+ float:right;
+ height:50px;
+ top:-5px;
+}
+.contanerbox{
+ float:left;
+ border:1px solid black;
+ }
+ #p1{
+ top:5px;
+ width:80%;
+ height:150px;
+ left:10%;
+ }
+#p2{
+ top:10px;
+ width:80%;
+ left:10%;
+ height:150px;
+ }
+
 }
  
