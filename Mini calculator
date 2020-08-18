@@ -81,7 +81,7 @@
                     }
  
                     if (c == 2) {
-                        document.getElementById("result").insertAdjacentHTML('beforeend', i + '<br>');
+                        document.getElementById("result").insertAdjacentHTML('beforend', i + '<br>');
                     }
                 }
             }
